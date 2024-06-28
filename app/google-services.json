@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1031667602705",
+    "project_id": "bhagwad-gita-41a07",
+    "storage_bucket": "bhagwad-gita-41a07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031667602705:android:5bd339d3b5b7c2582068b0",
+        "android_client_info": {
+          "package_name": "com.adityat.bhagwadgita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031667602705-07e43iqpnmqh72uqo713e2f3d05d5a29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOxHudXoWWNGiOtD3d1lUSDUWgArc9hPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031667602705-07e43iqpnmqh72uqo713e2f3d05d5a29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
